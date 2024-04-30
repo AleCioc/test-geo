@@ -1,0 +1,5 @@
+matplotlib
+geopandas
+osmnx
+streamlit
+plotly
